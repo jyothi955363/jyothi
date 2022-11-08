@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-08 10:36:03</sys_created_on>
+        <sys_id>b00cb7918783d110957f55383cbb3529</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_790272_managment_table.x_790272_managment.mnager_role</sys_name>
+        <sys_package display_value="Managment" source="x_790272_managment">bf3bfb958743d110957f55383cbb3511</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Managment">bf3bfb958743d110957f55383cbb3511</sys_scope>
+        <sys_security_acl display_value="x_790272_managment_table">b40cb7918783d110957f55383cbb3526</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b00cb7918783d110957f55383cbb3529</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-08 10:36:03</sys_updated_on>
+        <sys_user_role display_value="x_790272_managment.mnager_role" name="x_790272_managment.mnager_role">105bb3518783d110957f55383cbb35a7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
